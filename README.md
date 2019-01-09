@@ -1,4 +1,4 @@
-# Binary calculator
+# Screenshot
 
 ![alt text](https://github.com/appalse/Binary-calculator/blob/master/Screenshot-binary-calculator.png)
 
